@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "idUE": 1000000001,
+      "nameUE": "Samsung Galaxy S24",
+      "endpointUE": "void",
+      "validUE": true
+    },
+    {
+      "idUE": 1000000002,
+      "nameUE": "Apple iPhone 15",
+      "endpointUE": "void",
+      "validUE": true
+    },
+    {
+      "idUE": 1000000003,
+      "nameUE": "Xiaomi Redmi Note 13",
+      "endpointUE": "void",
+      "validUE": false
+    }
+  ]
+}
